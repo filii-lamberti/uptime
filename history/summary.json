@@ -5,7 +5,7 @@
     "slug": "confluence",
     "status": "up",
     "uptime": "100.00%",
-    "time": 674
+    "time": 703
   },
   {
     "name": "Filiikot",
@@ -13,7 +13,7 @@
     "slug": "filiikot",
     "status": "up",
     "uptime": "100.00%",
-    "time": 550
+    "time": 544
   },
   {
     "name": "Website",
@@ -21,6 +21,6 @@
     "slug": "website",
     "status": "up",
     "uptime": "100.00%",
-    "time": 843
+    "time": 800
   }
 ]
