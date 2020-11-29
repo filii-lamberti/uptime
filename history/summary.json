@@ -5,15 +5,15 @@
     "slug": "confluence",
     "status": "up",
     "uptime": "100.00%",
-    "time": 734
+    "time": 769
   },
   {
     "name": "Filiikot",
     "url": "https://ishetfiliikotopen.be/",
     "slug": "filiikot",
     "status": "up",
-    "uptime": "99.69%",
-    "time": 895
+    "uptime": "99.73%",
+    "time": 875
   },
   {
     "name": "Website",
@@ -21,6 +21,6 @@
     "slug": "website",
     "status": "up",
     "uptime": "100.00%",
-    "time": 766
+    "time": 768
   }
 ]
