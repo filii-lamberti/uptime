@@ -5,15 +5,31 @@
     "slug": "confluence",
     "status": "up",
     "uptime": "100.00%",
-    "time": 807
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 900,
+    "timeDay": 1018,
+    "timeWeek": 912,
+    "timeMonth": 900,
+    "timeYear": 900
   },
   {
     "name": "Filiikot",
     "url": "https://ishetfiliikotopen.be/",
     "slug": "filiikot",
     "status": "up",
-    "uptime": "99.83%",
-    "time": 802
+    "uptime": "99.85%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
+    "time": 852,
+    "timeDay": 696,
+    "timeWeek": 975,
+    "timeMonth": 852,
+    "timeYear": 852
   },
   {
     "name": "Website",
@@ -21,6 +37,14 @@
     "slug": "website",
     "status": "up",
     "uptime": "100.00%",
-    "time": 824
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 830,
+    "timeDay": 886,
+    "timeWeek": 847,
+    "timeMonth": 830,
+    "timeYear": 830
   }
 ]
