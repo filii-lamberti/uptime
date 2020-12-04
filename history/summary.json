@@ -9,27 +9,27 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 900,
-    "timeDay": 1018,
-    "timeWeek": 912,
-    "timeMonth": 900,
-    "timeYear": 900
+    "time": 889,
+    "timeDay": 770,
+    "timeWeek": 902,
+    "timeMonth": 889,
+    "timeYear": 889
   },
   {
     "name": "Filiikot",
     "url": "https://ishetfiliikotopen.be/",
     "slug": "filiikot",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.85%",
-    "time": 852,
-    "timeDay": 696,
-    "timeWeek": 975,
-    "timeMonth": 852,
-    "timeYear": 852
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 826,
+    "timeDay": 466,
+    "timeWeek": 1002,
+    "timeMonth": 826,
+    "timeYear": 826
   },
   {
     "name": "Website",
@@ -41,10 +41,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 830,
-    "timeDay": 886,
-    "timeWeek": 847,
-    "timeMonth": 830,
-    "timeYear": 830
+    "time": 817,
+    "timeDay": 669,
+    "timeWeek": 848,
+    "timeMonth": 817,
+    "timeYear": 817
   }
 ]
