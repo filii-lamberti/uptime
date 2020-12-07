@@ -2,6 +2,7 @@
   {
     "name": "Confluence",
     "url": "$SECRET_SITE",
+    "icon": "https://favicons.githubusercontent.com/null",
     "slug": "confluence",
     "status": "up",
     "uptime": "100.00%",
@@ -9,15 +10,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 875,
-    "timeDay": 721,
-    "timeWeek": 871,
-    "timeMonth": 875,
-    "timeYear": 875
+    "time": 880,
+    "timeDay": 952,
+    "timeWeek": 904,
+    "timeMonth": 880,
+    "timeYear": 880,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Filiikot",
     "url": "https://ishetfiliikotopen.be/",
+    "icon": "https://favicons.githubusercontent.com/ishetfiliikotopen.be",
     "slug": "filiikot",
     "status": "up",
     "uptime": "99.89%",
@@ -25,15 +28,19 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
-    "time": 782,
-    "timeDay": 565,
-    "timeWeek": 556,
-    "timeMonth": 782,
-    "timeYear": 782
+    "time": 777,
+    "timeDay": 681,
+    "timeWeek": 584,
+    "timeMonth": 777,
+    "timeYear": 777,
+    "dailyMinutesDown": {
+      "2020-11-26": 20
+    }
   },
   {
     "name": "Website",
     "url": "https://filii.be/",
+    "icon": "https://favicons.githubusercontent.com/filii.be",
     "slug": "website",
     "status": "up",
     "uptime": "100.00%",
@@ -41,10 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 788,
-    "timeDay": 693,
-    "timeWeek": 808,
-    "timeMonth": 788,
-    "timeYear": 788
+    "time": 786,
+    "timeDay": 757,
+    "timeWeek": 716,
+    "timeMonth": 786,
+    "timeYear": 786,
+    "dailyMinutesDown": {}
   }
 ]
