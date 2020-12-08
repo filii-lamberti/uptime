@@ -22,17 +22,17 @@
     "url": "https://ishetfiliikotopen.be/",
     "icon": "https://favicons.githubusercontent.com/ishetfiliikotopen.be",
     "slug": "filiikot",
-    "status": "down",
+    "status": "up",
     "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
-    "time": 773,
-    "timeDay": 690,
-    "timeWeek": 587,
-    "timeMonth": 773,
-    "timeYear": 773,
+    "time": 763,
+    "timeDay": 624,
+    "timeWeek": 583,
+    "timeMonth": 763,
+    "timeYear": 763,
     "dailyMinutesDown": {
       "2020-11-26": 20
     }
