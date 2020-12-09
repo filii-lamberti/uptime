@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 890,
-    "timeDay": 1036,
-    "timeWeek": 909,
-    "timeMonth": 890,
-    "timeYear": 890,
+    "time": 889,
+    "timeDay": 866,
+    "timeWeek": 890,
+    "timeMonth": 889,
+    "timeYear": 889,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/ishetfiliikotopen.be",
     "slug": "filiikot",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
-    "time": 763,
-    "timeDay": 624,
-    "timeWeek": 583,
-    "timeMonth": 763,
-    "timeYear": 763,
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 752,
+    "timeDay": 541,
+    "timeWeek": 590,
+    "timeMonth": 752,
+    "timeYear": 752,
     "dailyMinutesDown": {
       "2020-11-26": 20
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 790,
-    "timeDay": 845,
-    "timeWeek": 711,
-    "timeMonth": 790,
-    "timeYear": 790,
+    "time": 785,
+    "timeDay": 708,
+    "timeWeek": 728,
+    "timeMonth": 785,
+    "timeYear": 785,
     "dailyMinutesDown": {}
   }
 ]
