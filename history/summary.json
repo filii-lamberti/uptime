@@ -23,13 +23,13 @@
     "icon": "https://favicons.githubusercontent.com/ishetfiliikotopen.be",
     "slug": "filiikot",
     "status": "up",
-    "uptime": "98.67%",
+    "uptime": "98.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "94.46%",
-    "uptimeMonth": "98.67%",
-    "uptimeYear": "98.67%",
+    "uptimeMonth": "98.68%",
+    "uptimeYear": "98.71%",
     "time": 677,
-    "timeDay": 662,
+    "timeDay": 856,
     "timeWeek": 608,
     "timeMonth": 687,
     "timeYear": 677,
@@ -43,9 +43,9 @@
     "url": "https://filii.be/",
     "icon": "https://favicons.githubusercontent.com/filii.be",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -54,6 +54,8 @@
     "timeWeek": 762,
     "timeMonth": 770,
     "timeYear": 775,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2020-12-24": 0
+    }
   }
 ]
