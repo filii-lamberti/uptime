@@ -7,7 +7,7 @@ sites:
   - name: Confluence
     url: $SECRET_SITE
   - name: Filiikot
-    url: https://ishetfiliikotopen.be/
+    url: https://kot.filii.be/
   - name: Website
     url: https://filii.be/
 
