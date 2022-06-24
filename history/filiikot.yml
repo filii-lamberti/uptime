@@ -1,7 +1,7 @@
 url: https://kot.filii.be/
-status: up
-code: 200
-responseTime: 468
-lastUpdated: 2022-06-24T17:34:09.237Z
+status: down
+code: 502
+responseTime: 379
+lastUpdated: 2022-06-24T19:45:57.147Z
 startTime: Mon Nov 23 2020 19:47:52 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
