@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "confluence",
     "status": "down",
-    "uptime": "58.49%",
+    "uptime": "58.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "22.97%",
+    "uptimeMonth": "19.71%",
     "uptimeYear": "37.81%",
-    "time": 2000,
+    "time": 2003,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 713,
-    "timeYear": 2170,
+    "timeMonth": 689,
+    "timeYear": 2166,
     "dailyMinutesDown": {
-      "2022-12-09": 96,
+      "2022-12-10": 84,
+      "2022-12-09": 1440,
       "2022-12-08": 1440,
       "2022-12-07": 1440,
       "2022-12-06": 1440,
@@ -254,8 +255,7 @@
       "2021-12-14": 1440,
       "2021-12-13": 1440,
       "2021-12-12": 1440,
-      "2021-12-11": 1440,
-      "2021-12-10": 1440
+      "2021-12-11": 1440
     }
   },
   {
@@ -264,7 +264,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/kot.filii.be.ico",
     "slug": "filiikot",
     "status": "down",
-    "uptime": "26.07%",
+    "uptime": "26.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -272,10 +272,11 @@
     "time": 1816,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 364,
-    "timeYear": 2032,
+    "timeMonth": 372,
+    "timeYear": 2027,
     "dailyMinutesDown": {
-      "2022-12-09": 96,
+      "2022-12-10": 84,
+      "2022-12-09": 1440,
       "2022-12-08": 1440,
       "2022-12-07": 1440,
       "2022-12-06": 1440,
@@ -629,8 +630,7 @@
       "2021-12-14": 1440,
       "2021-12-13": 1440,
       "2021-12-12": 1440,
-      "2021-12-11": 1440,
-      "2021-12-10": 1440
+      "2021-12-11": 1440
     }
   },
   {
@@ -644,11 +644,11 @@
     "uptimeWeek": "99.89%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.60%",
-    "time": 881,
-    "timeDay": 1153,
-    "timeWeek": 948,
-    "timeMonth": 1126,
-    "timeYear": 961,
+    "time": 882,
+    "timeDay": 999,
+    "timeWeek": 926,
+    "timeMonth": 1109,
+    "timeYear": 962,
     "dailyMinutesDown": {
       "2022-12-07": 11,
       "2022-11-07": 19,
