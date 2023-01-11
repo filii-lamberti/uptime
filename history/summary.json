@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "confluence",
     "status": "down",
-    "uptime": "56.08%",
+    "uptime": "56.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "37.81%",
-    "time": 2091,
+    "time": 2095,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2065,
+    "timeYear": 2060,
     "dailyMinutesDown": {
-      "2023-01-10": 96,
+      "2023-01-11": 94,
+      "2023-01-10": 1440,
       "2023-01-09": 1440,
       "2023-01-08": 1440,
       "2023-01-07": 1440,
@@ -254,8 +255,7 @@
       "2022-01-15": 1440,
       "2022-01-14": 1440,
       "2022-01-13": 1440,
-      "2022-01-12": 1440,
-      "2022-01-11": 1440
+      "2022-01-12": 1440
     }
   },
   {
@@ -264,7 +264,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/kot.filii.be.ico",
     "slug": "filiikot",
     "status": "down",
-    "uptime": "25.00%",
+    "uptime": "24.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -273,9 +273,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1915,
+    "timeYear": 1909,
     "dailyMinutesDown": {
-      "2023-01-10": 96,
+      "2023-01-11": 94,
+      "2023-01-10": 1440,
       "2023-01-09": 1440,
       "2023-01-08": 1440,
       "2023-01-07": 1440,
@@ -629,8 +630,7 @@
       "2022-01-15": 1440,
       "2022-01-14": 1440,
       "2022-01-13": 1440,
-      "2022-01-12": 1440,
-      "2022-01-11": 1440
+      "2022-01-12": 1440
     }
   },
   {
@@ -639,15 +639,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/filii.be.ico",
     "slug": "website",
     "status": "up",
-    "uptime": "94.14%",
+    "uptime": "94.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.60%",
     "time": 898,
-    "timeDay": 777,
-    "timeWeek": 960,
-    "timeMonth": 1056,
+    "timeDay": 726,
+    "timeWeek": 961,
+    "timeMonth": 1042,
     "timeYear": 989,
     "dailyMinutesDown": {
       "2022-12-07": 11,
