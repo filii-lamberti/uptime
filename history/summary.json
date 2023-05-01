@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "confluence",
     "status": "down",
-    "uptime": "49.13%",
+    "uptime": "49.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "37.81%",
-    "time": 2019,
+    "time": 2014,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1298,
+    "timeYear": 1287,
     "dailyMinutesDown": {
-      "2023-04-30": 85,
+      "2023-05-01": 83,
+      "2023-04-30": 1440,
       "2023-04-29": 1440,
       "2023-04-28": 1440,
       "2023-04-27": 1440,
@@ -254,8 +255,7 @@
       "2022-05-05": 1440,
       "2022-05-04": 1440,
       "2022-05-03": 1440,
-      "2022-05-02": 1440,
-      "2022-05-01": 1440
+      "2022-05-02": 1440
     }
   },
   {
@@ -264,18 +264,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/kot.filii.be.ico",
     "slug": "filiikot",
     "status": "down",
-    "uptime": "21.90%",
+    "uptime": "21.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "2.74%",
     "time": 1976,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 996,
+    "timeYear": 983,
     "dailyMinutesDown": {
-      "2023-04-30": 85,
+      "2023-05-01": 83,
+      "2023-04-30": 1440,
       "2023-04-29": 1440,
       "2023-04-28": 1440,
       "2023-04-27": 1440,
@@ -629,8 +630,7 @@
       "2022-05-05": 1440,
       "2022-05-04": 1440,
       "2022-05-03": 1440,
-      "2022-05-02": 1440,
-      "2022-05-01": 1440
+      "2022-05-02": 1440
     }
   },
   {
@@ -639,16 +639,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/filii.be.ico",
     "slug": "website",
     "status": "up",
-    "uptime": "94.85%",
+    "uptime": "94.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.56%",
-    "time": 1000,
-    "timeDay": 1038,
-    "timeWeek": 981,
-    "timeMonth": 1013,
-    "timeYear": 1086,
+    "time": 1001,
+    "timeDay": 1150,
+    "timeWeek": 993,
+    "timeMonth": 1009,
+    "timeYear": 1084,
     "dailyMinutesDown": {
       "2023-02-08": 21,
       "2023-02-06": 9,
@@ -664,8 +664,7 @@
       "2022-06-29": 45,
       "2022-05-25": 33,
       "2022-05-23": 601,
-      "2022-05-22": 279,
-      "2022-05-01": 36
+      "2022-05-22": 279
     }
   }
 ]
