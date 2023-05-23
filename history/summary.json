@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "confluence",
     "status": "down",
-    "uptime": "47.94%",
+    "uptime": "47.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "37.81%",
-    "time": 1894,
+    "time": 1889,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1023,
+    "timeYear": 1008,
     "dailyMinutesDown": {
-      "2023-05-22": 85,
+      "2023-05-23": 81,
+      "2023-05-22": 1440,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
@@ -254,8 +255,7 @@
       "2022-05-27": 1440,
       "2022-05-26": 1440,
       "2022-05-25": 1440,
-      "2022-05-24": 1440,
-      "2022-05-23": 1440
+      "2022-05-24": 1440
     }
   },
   {
@@ -264,18 +264,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/kot.filii.be.ico",
     "slug": "filiikot",
     "status": "down",
-    "uptime": "21.37%",
+    "uptime": "21.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "2.74%",
-    "time": 1893,
+    "time": 1887,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 655,
+    "timeYear": 636,
     "dailyMinutesDown": {
-      "2023-05-22": 85,
+      "2023-05-23": 82,
+      "2023-05-22": 1440,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
@@ -629,8 +630,7 @@
       "2022-05-27": 1440,
       "2022-05-26": 1440,
       "2022-05-25": 1440,
-      "2022-05-24": 1440,
-      "2022-05-23": 1440
+      "2022-05-24": 1440
     }
   },
   {
@@ -643,12 +643,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.57%",
+    "uptimeYear": "99.64%",
     "time": 1013,
-    "timeDay": 743,
-    "timeWeek": 927,
-    "timeMonth": 1030,
-    "timeYear": 1097,
+    "timeDay": 1148,
+    "timeWeek": 936,
+    "timeMonth": 1033,
+    "timeYear": 1099,
     "dailyMinutesDown": {
       "2023-02-08": 21,
       "2023-02-06": 9,
@@ -662,8 +662,7 @@
       "2022-08-31": 92,
       "2022-06-30": 195,
       "2022-06-29": 45,
-      "2022-05-25": 33,
-      "2022-05-23": 601
+      "2022-05-25": 33
     }
   }
 ]
