@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "confluence",
     "status": "down",
-    "uptime": "39.26%",
+    "uptime": "39.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 850,
+    "time": 849,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-09": 71,
+      "2023-12-10": 78,
+      "2023-12-09": 1440,
       "2023-12-08": 1440,
       "2023-12-07": 1440,
       "2023-12-06": 1440,
@@ -379,8 +380,7 @@
       "2022-12-14": 1440,
       "2022-12-13": 1440,
       "2022-12-12": 1440,
-      "2022-12-11": 1440,
-      "2022-12-10": 1440
+      "2022-12-11": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/kot.filii.be.ico",
     "slug": "filiikot",
     "status": "down",
-    "uptime": "17.50%",
+    "uptime": "17.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-09": 71,
+      "2023-12-10": 78,
+      "2023-12-09": 1440,
       "2023-12-08": 1440,
       "2023-12-07": 1440,
       "2023-12-06": 1440,
@@ -763,8 +764,7 @@
       "2022-12-14": 1440,
       "2022-12-13": 1440,
       "2022-12-12": 1440,
-      "2022-12-11": 1440,
-      "2022-12-10": 1440
+      "2022-12-11": 1440
     }
   },
   {
@@ -773,16 +773,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/filii.be.ico",
     "slug": "website",
     "status": "up",
-    "uptime": "95.88%",
+    "uptime": "95.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1090,
-    "timeDay": 745,
-    "timeWeek": 910,
-    "timeMonth": 1031,
-    "timeYear": 1111,
+    "timeDay": 1205,
+    "timeWeek": 928,
+    "timeMonth": 1033,
+    "timeYear": 1112,
     "dailyMinutesDown": {
       "2023-02-08": 21,
       "2023-02-06": 9,
