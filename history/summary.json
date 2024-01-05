@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "confluence",
     "status": "down",
-    "uptime": "38.36%",
+    "uptime": "38.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 859,
+    "time": 857,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-04": 72,
+      "2024-01-05": 73,
+      "2024-01-04": 1440,
       "2024-01-03": 1440,
       "2024-01-02": 1440,
       "2024-01-01": 1440,
@@ -379,8 +380,7 @@
       "2023-01-09": 1440,
       "2023-01-08": 1440,
       "2023-01-07": 1440,
-      "2023-01-06": 1440,
-      "2023-01-05": 1440
+      "2023-01-06": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/kot.filii.be.ico",
     "slug": "filiikot",
     "status": "down",
-    "uptime": "17.10%",
+    "uptime": "17.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 439,
+    "time": 438,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-04": 72,
+      "2024-01-05": 73,
+      "2024-01-04": 1440,
       "2024-01-03": 1440,
       "2024-01-02": 1440,
       "2024-01-01": 1440,
@@ -763,8 +764,7 @@
       "2023-01-09": 1440,
       "2023-01-08": 1440,
       "2023-01-07": 1440,
-      "2023-01-06": 1440,
-      "2023-01-05": 1440
+      "2023-01-06": 1440
     }
   },
   {
@@ -778,10 +778,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1096,
-    "timeDay": 1163,
-    "timeWeek": 1032,
-    "timeMonth": 1039,
+    "time": 1095,
+    "timeDay": 1003,
+    "timeWeek": 1015,
+    "timeMonth": 1044,
     "timeYear": 1111,
     "dailyMinutesDown": {
       "2023-02-08": 21,
