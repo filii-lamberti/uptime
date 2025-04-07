@@ -4,10 +4,8 @@ repo: uptime # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Confluence
-    url: $SECRET_SITE
   - name: Filiikot
-    url: https://kot.filii.be/
+    url: https://ishetfiliikotopen.be/
   - name: Website
     url: https://filii.be/
 
