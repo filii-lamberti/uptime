@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/filii.be.ico",
     "slug": "website",
     "status": "up",
-    "uptime": "96.96%",
+    "uptime": "96.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.63%",
-    "time": 820,
+    "time": 819,
     "timeDay": 781,
-    "timeWeek": 741,
+    "timeWeek": 728,
     "timeMonth": 753,
     "timeYear": 803,
     "dailyMinutesDown": {
@@ -39,16 +39,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ishetfiliikotopen.be.ico",
     "slug": "filiikot",
     "status": "up",
-    "uptime": "13.40%",
+    "uptime": "13.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "71.99%",
-    "uptimeYear": "6.16%",
-    "time": 1688,
-    "timeDay": 2430,
-    "timeWeek": 2091,
-    "timeMonth": 1688,
-    "timeYear": 1688,
+    "uptimeMonth": "78.58%",
+    "uptimeYear": "6.43%",
+    "time": 1684,
+    "timeDay": 1565,
+    "timeWeek": 1983,
+    "timeMonth": 1684,
+    "timeYear": 1684,
     "dailyMinutesDown": {
       "2025-04-17": 25,
       "2025-04-07": 753,
@@ -391,8 +391,7 @@
       "2024-05-05": 1440,
       "2024-05-04": 1440,
       "2024-05-03": 1440,
-      "2024-05-02": 1440,
-      "2024-05-01": 1440
+      "2024-05-02": 1440
     }
   }
 ]
