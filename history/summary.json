@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.63%",
-    "time": 801,
-    "timeDay": 629,
-    "timeWeek": 665,
-    "timeMonth": 681,
+    "time": 800,
+    "timeDay": 611,
+    "timeWeek": 648,
+    "timeMonth": 677,
     "timeYear": 798,
     "dailyMinutesDown": {
       "2025-04-17": 25,
@@ -38,17 +38,17 @@
     "url": "https://ishetfiliikotopen.be/",
     "icon": "https://icons.duckduckgo.com/ip3/ishetfiliikotopen.be.ico",
     "slug": "filiikot",
-    "status": "down",
-    "uptime": "14.68%",
+    "status": "up",
+    "uptime": "14.71%",
     "uptimeDay": "98.72%",
     "uptimeWeek": "99.54%",
     "uptimeMonth": "99.80%",
-    "uptimeYear": "12.81%",
-    "time": 1676,
-    "timeDay": 1275,
-    "timeWeek": 1654,
-    "timeMonth": 1727,
-    "timeYear": 1676,
+    "uptimeYear": "12.99%",
+    "time": 1686,
+    "timeDay": 1750,
+    "timeWeek": 1702,
+    "timeMonth": 1734,
+    "timeYear": 1686,
     "dailyMinutesDown": {
       "2025-05-24": 19,
       "2025-05-19": 17,
@@ -374,8 +374,7 @@
       "2024-05-29": 1440,
       "2024-05-28": 1440,
       "2024-05-27": 1440,
-      "2024-05-26": 1440,
-      "2024-05-25": 1440
+      "2024-05-26": 1440
     }
   }
 ]
