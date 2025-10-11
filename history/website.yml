@@ -1,7 +1,7 @@
 url: https://filii.be/
-status: up
-code: 200
-responseTime: 747
-lastUpdated: 2025-10-10T23:06:22.423Z
+status: down
+code: 503
+responseTime: 10533
+lastUpdated: 2025-10-11T08:34:57.617Z
 startTime: 2020-11-23T19:48:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
