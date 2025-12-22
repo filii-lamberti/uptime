@@ -4,10 +4,10 @@
     "url": "https://filii.be/",
     "icon": "https://icons.duckduckgo.com/ip3/filii.be.ico",
     "slug": "website",
-    "status": "up",
-    "uptime": "99.64%",
-    "uptimeDay": "98.35%",
-    "uptimeWeek": "98.92%",
+    "status": "down",
+    "uptime": "99.75%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "98.91%",
     "uptimeMonth": "99.40%",
     "uptimeYear": "98.77%",
     "time": 1108,
@@ -16,7 +16,7 @@
     "timeMonth": 1039,
     "timeYear": 1205,
     "dailyMinutesDown": {
-      "2025-12-22": 14,
+      "2025-12-22": 15,
       "2025-12-21": 10,
       "2025-12-20": 24,
       "2025-12-19": 13,
@@ -84,12 +84,12 @@
     "url": "https://ishetfiliikotopen.be/",
     "icon": "https://icons.duckduckgo.com/ip3/ishetfiliikotopen.be.ico",
     "slug": "filiikot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "98.41%",
+    "uptimeDay": "98.40%",
     "uptimeWeek": "98.96%",
     "uptimeMonth": "99.45%",
-    "uptimeYear": "99.64%",
+    "uptimeYear": "99.65%",
     "time": 2307,
     "timeDay": 2331,
     "timeWeek": 2432,
@@ -150,7 +150,7 @@
       "2025-06-25": 13,
       "2025-06-23": 79,
       "2025-06-22": 21,
-      "2025-06-21": 20
+      "2025-06-21": 11
     }
   }
 ]
