@@ -4,19 +4,18 @@
     "url": "https://filii.be/",
     "icon": "https://icons.duckduckgo.com/ip3/filii.be.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.70%",
-    "uptimeMonth": "98.95%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "98.42%",
+    "uptimeMonth": "98.94%",
     "uptimeYear": "99.49%",
-    "time": 1139,
+    "time": 1140,
     "timeDay": 912,
-    "timeWeek": 1125,
+    "timeWeek": 1120,
     "timeMonth": 1013,
     "timeYear": 1229,
     "dailyMinutesDown": {
-      "2025-12-10": 7,
       "2025-12-11": 27,
       "2025-12-12": 13,
       "2025-12-15": 12,
@@ -90,7 +89,8 @@
       "2026-06-13": 37,
       "2026-06-20": 78,
       "2026-06-24": 109,
-      "2026-06-25": 45
+      "2026-06-25": 45,
+      "2026-06-27": 5
     }
   },
   {
@@ -98,19 +98,18 @@
     "url": "https://ishetfiliikotopen.be/",
     "icon": "https://icons.duckduckgo.com/ip3/ishetfiliikotopen.be.ico",
     "slug": "filiikot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.89%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "98.62%",
     "uptimeMonth": "99.04%",
     "uptimeYear": "99.52%",
-    "time": 2141,
+    "time": 2140,
     "timeDay": 2025,
-    "timeWeek": 1785,
+    "timeWeek": 1804,
     "timeMonth": 1802,
     "timeYear": 2240,
     "dailyMinutesDown": {
-      "2025-12-10": 7,
       "2025-12-11": 27,
       "2025-12-12": 12,
       "2025-12-15": 11,
@@ -183,7 +182,8 @@
       "2026-06-13": 32,
       "2026-06-20": 74,
       "2026-06-24": 99,
-      "2026-06-25": 40
+      "2026-06-25": 40,
+      "2026-06-27": 0
     }
   }
 ]
