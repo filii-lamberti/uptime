@@ -77,16 +77,16 @@
     "url": "https://ishetfiliikotopen.be/",
     "icon": "https://icons.duckduckgo.com/ip3/ishetfiliikotopen.be.ico",
     "slug": "filiikot",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "98.99%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "98.43%",
-    "uptimeYear": "99.79%",
+    "uptimeDay": "98.06%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "98.40%",
+    "uptimeYear": "99.78%",
     "time": 2169,
-    "timeDay": 1467,
-    "timeWeek": 1983,
-    "timeMonth": 2135,
+    "timeDay": 1508,
+    "timeWeek": 1968,
+    "timeMonth": 2130,
     "timeYear": 2036,
     "dailyMinutesDown": {
       "2026-09-12": 4,
@@ -141,7 +141,7 @@
       "2026-11-15": 2,
       "2026-11-16": 1,
       "2026-11-17": 1,
-      "2026-11-20": 15
+      "2026-11-20": 29
     }
   }
 ]
